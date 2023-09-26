@@ -11,5 +11,7 @@
 
 | Home | Sound Board |  Starship Captains
 |:-:|:-:|:-:|
-| ![1](Screenshot_2023-09-19-05-08-44-616_com hakancevik captainslog - Kopya](https://github.com/Cevik10/CaptainsLogApplication/assets/100142322/e3ead698-62e0-43e1-9a0c-93e5718933e6)) | ![2][Screenshot_2023-09-19-05-08-49-089_com hakancevik captainslog](https://github.com/Cevik10/CaptainsLogApplication/assets/100142322/9f1ba622-5226-491e-8fe0-ca24a630c12b)
- | ![3][Screenshot_2023-09-19-05-10-27-448_com hakancevik captainslog](https://github.com/Cevik10/CaptainsLogApplication/assets/100142322/e2d69e2e-3898-4c58-8980-9e13eea239ff)
+| ![1](https://github.com/Cevik10/CaptainsLogApplication/assets/100142322/4139d2d5-5e01-4994-85b4-96c24c24ab13)| ![2](https://github.com/Cevik10/CaptainsLogApplication/assets/100142322/c701c852-6f1f-482b-b624-c6f4cc9081e0)
+)
+ | ![3](https://github.com/Cevik10/CaptainsLogApplication/assets/100142322/77764ce3-71c6-4bfd-9d0c-f850d2a58a10)
+
