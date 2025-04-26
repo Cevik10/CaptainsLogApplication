@@ -6,9 +6,8 @@ Live long & Prosper Trek fans! I've developed an app with stunning UI design: Ca
 
 | Home | Sound Board | Starship Captains
 |:-:|:-:|:-:|
-| ![1]([https://github.com/Cevik10/CaptainsLogApplication/assets/100142322/4139d2d5-5e01-4994-85b4-96c24c24ab13](https://github.com/user-attachments/assets/a571ade5-f0fd-4c46-96f9-699c67a836c4))| ![2](https://github.com/Cevik10/CaptainsLogApplication/assets/100142322/c701c852-6f1f-482b-b624-c6f4cc9081e0)| ![3](https://github.com/Cevik10/CaptainsLogApplication/assets/100142322/77764ce3-71c6-4bfd-9d0c-f850d2a58a10)
+| ![1](https://github.com/user-attachments/assets/49dd1b43-babe-4a06-b17d-6a4578f2c3f8)| ![2](https://github.com/Cevik10/CaptainsLogApplication/assets/100142322/c701c852-6f1f-482b-b624-c6f4cc9081e0)| ![3](https://github.com/Cevik10/CaptainsLogApplication/assets/100142322/77764ce3-71c6-4bfd-9d0c-f850d2a58a10)
 
-![10](https://github.com/user-attachments/assets/49dd1b43-babe-4a06-b17d-6a4578f2c3f8)
 
 | Stardate | Add Log | Logs | Log Detail
 |:-:|:-:|:-:|:-:|
